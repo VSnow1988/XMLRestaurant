@@ -1,0 +1,22 @@
+<menu>
+	<breakfast>
+		<item category="vegan">
+			<name>Brown rice Tofu Bowl</name>
+			<description>delicious, delicious tofu.</description>
+			<price>$7</price>
+		</item>
+		<item category="cannibal">
+			<name>Some Human Bones</name>
+			<description>with a lima bean and ketchup.</description>
+			<price>$10</price>
+		</item>
+		<item category="omnivore">
+			<name>Salmon Donburi</name>
+			<description>comes with a side of nattou and mustard, and miso soup.</description>
+		</item>
+	</breakfast>
+	<lunch>
+	</lunch>
+	<dinner>
+	</dinner>
+</menu>
